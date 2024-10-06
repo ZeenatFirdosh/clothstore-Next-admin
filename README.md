@@ -1,7 +1,13 @@
 ## Deployed Link: https://ecommerce-next-admin.vercel.app/
 
-![Dashboard](image-3.png)
+![Dashboard](image.png)
 
-![collections](image-1.png)
+![Collection](image-1.png)
 
-![products](image-2.png)
+![Products](image-2.png)
+
+![Orders](image-3.png)
+
+![Customers](image-4.png)
+
+![Account](image-5.png)
